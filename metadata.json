@@ -1,0 +1,6 @@
+{
+  "name": "المنصة الإعلامية - الروضة الأولى بالقنفذة",
+  "description": "لوحة تحكم إدارية وشاشة عرض تفاعلية للمنصة الإعلامية للروضة الأولى بالقنفذة لإدارة الأنشطة والأنباء والفعاليات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
